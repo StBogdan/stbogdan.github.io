@@ -5,7 +5,7 @@
 
 ## Algorithmics
 Practice problems from competitive coding sites (Leetcode, HackerRank, Codeforces) in various languages. Code quality _varies_.
-- [Python](/Users/stbogdan/OneDrive://github.com/StBogdan/PythonWork)
+- [Python](https://github.com/StBogdan/PythonWork)
 - [Java](https://github.com/StBogdan/JavaWork)
 - [Scala](https://github.com/StBogdan/ScalaScraps)
 
